@@ -185,7 +185,7 @@ aws-iam-security-auditor/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/muzzyfarooqui aws-iam-security-auditor.git
 cd aws-iam-security-auditor
 ```
 
